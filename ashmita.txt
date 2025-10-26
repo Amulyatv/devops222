@@ -1,5 +1,0 @@
-vvce
-cse
-ise
-esc
-aiml
